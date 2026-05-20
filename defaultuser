@@ -1,0 +1,6 @@
+<?php
+    $username = "defaultuser";
+    $password = "USER PASSWORD";
+
+    require __DIR__ ."/../connection.php";
+?>
