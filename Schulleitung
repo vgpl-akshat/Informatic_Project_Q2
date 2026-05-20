@@ -1,0 +1,6 @@
+<?php
+    $username="Schulleitung";
+    $password="SCHULLEITUNG PASSWORD";
+
+    require __DIR__ ."/../connection.php";
+?>
